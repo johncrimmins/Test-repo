@@ -1,1 +1,0 @@
-This is John's first test of using git for CLI in years! :)
